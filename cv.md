@@ -24,3 +24,20 @@ I don't have experience in IT.I want to get knowledge and skills that will be en
 ## Courses
 * JS / FRONT-END. STAGE 0 - The Rolling Scopes School
 
+## Projects
+* [CV](https://github.com/VeloRus/rsschool-cv) - Curriculum vitae document made with markdown, then HTML and CSS 
+
+## Code examples 
+```
+function sum(...arg) {
+  let sum = 0;
+  for (let num of arg) { 
+   sum += num; 
+   }
+   return sum;
+}
+```
+
+## Languages
+* Russian - native speaker
+* English - А2 -> B1
